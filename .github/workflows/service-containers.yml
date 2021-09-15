@@ -27,3 +27,4 @@ jobs:
           PGPASSWORD: ${{ env.DATABASE_PASSWORD }}
         run: psql -U ${{ env.DATABASE_USER }} -d ${{ env.DATABASE_NAME }} -h postgres -c 'select * from information_schema.tables;'
         
+        
