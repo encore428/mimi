@@ -1,5 +1,5 @@
 # mimi
-...shell
+```shell
 deng@fedora ~ $ cd Workspace/api-core/
 deng@fedora ~/Workspace/api-core (sikon/PR-5453-2)$ cd ..
 deng@fedora ~/Workspace $ cd frontend-admin
@@ -722,3 +722,4 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 deng@fedora ~/Workspace/frontend-admin (master)$ 
+```
